@@ -1,0 +1,2 @@
+# ArtRageTabletFriend
+TabletFriend ArtRage configuration
