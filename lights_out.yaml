@@ -1,0 +1,9 @@
+button_size: 32
+rounding: 10
+default_style: accent
+margin: 6
+primary_color: "#444"
+secondary_color: "#eee"
+background_color: "#323031"
+min_opacity: 0.2
+max_opacity: 0.9
