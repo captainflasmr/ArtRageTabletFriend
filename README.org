@@ -3,4 +3,6 @@
 #+startup: showall
 #+author: James Dyer
 
-* README ArtRage configuration for TabletFriend
+* ArtRage configuration for TabletFriend
+
+[[/images/tabletfriend_artrage.jpg]]

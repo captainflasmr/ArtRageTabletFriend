@@ -1,10 +1,12 @@
 
 # Table of Contents
 
-1.  [README ArtRage configuration for TabletFriend](#org1f7c65b)
+1.  [ArtRage configuration for TabletFriend](#org00ab606)
 
 
 
-<a id="org1f7c65b"></a>
+<a id="org00ab606"></a>
 
-# README ArtRage configuration for TabletFriend
+# ArtRage configuration for TabletFriend
+
+![img](/images/tabletfriend_artrage.jpg)
